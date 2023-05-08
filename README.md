@@ -4,6 +4,8 @@ The script enables the user to calculate quickly the pass-through and the price 
 
 Note that the application is highly restricted to the setting at hand but the idea and functionalities are applicable to other settings as well.
 
+The application relies solely on Tkinter.
+
 ## Features
 
 - Type in the estimated price effect
