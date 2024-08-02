@@ -12,3 +12,5 @@ The application relies solely on Tkinter.
 - Choose between fuel types (Diesel and E10)
 - Error handling (like wrong input type or none input)
 - Reset with button click
+
+For me details and explanations, see my <a href="https://medium.com/@patthie/constructing-a-calculator-like-application-in-python-6f668b1badb6">blog post</a>.
